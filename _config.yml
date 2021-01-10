@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Andrew Bent"
   avatar : "/assets/images/andrewphoto.jpg"
-  bio    : "I'm a consultant specializing in economics, statistics, and business intelligence reporting. Seeking opportunities in tech."
+  bio    : "Thanks for visiting my Github Pages site! I'm a consultant specializing in economics, statistics, and business intelligence reporting. This site contains descriptions and Github links for my personal data science and BI projects."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
