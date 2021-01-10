@@ -61,7 +61,7 @@ author:
   bio    : "I'm a consultant specializing in economics, statistics, and business intelligence reporting. Seeking opportunities in tech."
   links:
     - label: "LinkedIn"
-      icon: "fa fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andrewbent1/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
