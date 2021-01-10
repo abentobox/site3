@@ -70,7 +70,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andrewbent1/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
