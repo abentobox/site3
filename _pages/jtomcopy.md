@@ -1,3 +1,4 @@
 ---
 layout: jtom
+permalink: /jtomcopy
 ---
